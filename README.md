@@ -3,15 +3,15 @@ It visualizes and explains how different components—such as the traffic light 
 
 The solution aims to make robotics hands-on, engaging, and beginner-friendly for students learning robotics and programming basics.
 
-🎯 Goals
+**🎯 Goals:**
 Simplify learning of robot control concepts.
 Provide a 3D, step-by-step guide through JigSpace.
 
-⚙️ Features
+**⚙️ Features:**
 Reach Kit;
 Traffic Light Control;
 Buzzer Pin Control;
 Motor Control (Car and Crane)
 
-📄 License
+**📄 License:**
 MIT Licence
