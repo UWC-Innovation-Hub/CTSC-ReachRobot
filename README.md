@@ -8,9 +8,9 @@ Simplify learning of robot control concepts.
 Provide a 3D, step-by-step guide through JigSpace.
 
 ⚙️ Features
-Reach Kit
-Traffic Light Control
-Buzzer Pin Control
+Reach Kit;
+Traffic Light Control;
+Buzzer Pin Control;
 Motor Control (Car and Crane)
 
 📄 License
